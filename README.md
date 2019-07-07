@@ -122,7 +122,7 @@ Add these metrics of validation phase by enriching the `metric_fn` function in e
 
 After adding details above, you can run the classification code for fine-tuning: 
 
-```python
+```shell
 python run_classifier.py
     --data_dir=../data/
     --task_name=amazon
