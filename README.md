@@ -139,7 +139,7 @@ python run_classifier.py
 ```
 
 ## Results
-The loss cure while training is below, and we can see that it converge quickly at around step 10000.
+The loss curve while training is below, and we can see that it converge quickly at around step 10000.
 
 <img src = "https://raw.githubusercontent.com/ying-he/personalMeta/master/bert/train_loss.png" width = "60%">
 
